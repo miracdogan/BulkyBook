@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkyBook", "BulkyBook.csproj", "{BBA8D2BB-B21A-4E8F-A354-7D959F89EFBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBA8D2BB-B21A-4E8F-A354-7D959F89EFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA8D2BB-B21A-4E8F-A354-7D959F89EFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA8D2BB-B21A-4E8F-A354-7D959F89EFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA8D2BB-B21A-4E8F-A354-7D959F89EFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7D60AE1-7E24-47C7-ABF3-3A85AA16FCEF}
+	EndGlobalSection
+EndGlobal
